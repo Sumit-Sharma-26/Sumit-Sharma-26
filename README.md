@@ -1,3 +1,4 @@
+![logo](https://github.com/Sumit-Sharma-26/Sumit-Sharma-26/blob/main/Datata.jpg)
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
 <h3 align="center">A passionate Data Engineer/Data Analyst from India</h3>
 
