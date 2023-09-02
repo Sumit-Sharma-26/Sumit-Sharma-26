@@ -1,6 +1,6 @@
 ![logo](https://github.com/Sumit-Sharma-26/Sumit-Sharma-26/blob/main/Datata.jpg)
 <h1 align="center">Hi 👋, I'm Sumit Sharma</h1>
-<h3 align="center">A passionate Data Engineer/Data Analyst from India</h3>
+<h3 align="center">Android & Flutter Developer | Creating Cross-Platform Magic | Data Science Enthusiast from India</h3>
 
 <img align="right" alt="data" width="500" src="https://www.cloudyml.com/wp-content/uploads/2022/06/1ca74946ed770bb635e4de4711bd861f.gif">
 
@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Data Scientist**
 
-- 👯 I’m looking to collaborate on **Data Engineer/Data Analyst**
+- 👯 I’m looking to collaborate on **Data Engineer/Data Analyst/Android Development/Flutter**
 
-- 💬 Ask me about **Spark, Python, SQL, Databricks, Azure Fundamentals**
+- 💬 Ask me about **Spark,Android, Flutter, Dart, Retrofit, Room Database, Python, SQL, Databricks, Azure Fundamentals**
 
 - 📫 How to reach me **sumit.sharma.biet@gmail.com**
 
