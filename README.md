@@ -6,9 +6,9 @@
 
 - 🔭 I was working at **LTIMindtree pvt. Ltd.**
 
-- 🌱 I’m currently learning **Data Scientist**
+- 🌱 I’m currently learning **Data Science*
 
-- 👯 I’m looking to collaborate on **Data Engineer/Data Analyst/Android Development/Flutter**
+- 👯 I’m looking to collaborate on **Data Engineer/Data Analyst/Android Development/Flutter Development**
 
 - 💬 Ask me about **Spark,Android, Flutter, Dart, Retrofit, Room Database, Python, SQL, Databricks, Azure Fundamentals**
 
